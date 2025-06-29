@@ -2,7 +2,7 @@
 <h3 align="center">Senior DevOps / Site Reliability Engineer | Linux, Kubernetes, Observability, Automation</h3>
 
 <p align="center">
-  <a href="mailto:mesutozsoy@yaani.com">📧 mesutozsoy@yaani.com</a> •
+  <a href="mailto:info@mesutozsoy.com">📧 info@mesutozsoy.com</a> •
   <a href="https://www.linkedin.com/in/mesutozsoy/">LinkedIn</a> •
   <a href="https://github.com/mesutozsoycom">GitHub</a> •
   <a href="https://www.youtube.com/@mesutozsoy">YouTube</a>
