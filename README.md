@@ -97,7 +97,7 @@ I’ve led **large-scale automation efforts** (13,000+ Linux clients), designed 
 ## 📫 Let's Connect!
 
 I love to collaborate on open-source infrastructure tooling, DevOps pipelines, and observability frameworks.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mesutozsoy/) or drop me an email at **mesutozsoy@yaani.com**.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mesutozsoy/) or drop me an email at **info@mesutozsoy.com**.
 
 ---
 🖥️ _“Infrastructure as Code, Observability by Default, Automation Everywhere.”_
